@@ -1,10 +1,10 @@
 # CreditCard-Fraud-Detection-GrowthLink
 A machine learning project that detects fraudulent credit card transactions using transaction time, amount, merchant ID and user ID.
+
 💳 Credit Card Fraud Detection
 🔹 Project Overview:
 This project is a machine learning-based web application designed to detect fraudulent credit card transactions.
 It uses transaction details such as transaction time, user ID, merchant information, purchase amount, and other attributes to predict whether a transaction is fraudulent or legitimate.
-
 The backend is powered by a trained machine learning model, and the frontend is built using Flask for a smooth, interactive user experience.
 
 🔹 Key Features:
